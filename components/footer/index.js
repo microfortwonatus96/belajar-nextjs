@@ -1,3 +1,3 @@
 export default function Footer() {
-    return <div>Halaman Footer</div>
+    return <div className="bg-blue">Halaman Footer</div>
 }
