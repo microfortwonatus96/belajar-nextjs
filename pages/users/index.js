@@ -3,7 +3,7 @@ import Layout from "@/layout";
 export default function Users() {
     return (
         <>
-        <Layout metaTitle="User">
+        <Layout metaTitle="Users">
             <p>Halaman User</p>
         </Layout>
         </>
