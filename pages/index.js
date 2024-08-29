@@ -4,7 +4,7 @@ import Layout from "@/layout";
 export default function Main() {
  return (
   <Layout metaTitle="Home">
-  <p>Home</p>
+  <p>ini adalah halaman Home</p>
   </Layout>
  );
 }

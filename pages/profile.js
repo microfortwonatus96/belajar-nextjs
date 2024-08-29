@@ -4,7 +4,7 @@ export default function Profile() {
     return (
         <>
         <Layout metaTitle="Profile" metaDescription="Informasi Profile User">
-            <p>Halaman Profile</p>
+            <p>ini adalah halaman Profile</p>
         </Layout>
         </>
     )
