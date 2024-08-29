@@ -4,7 +4,7 @@ export default function Users() {
     return (
         <>
         <Layout metaTitle="Users">
-            <p>Halaman User</p>
+            <p>Halaman Users</p>
         </Layout>
         </>
     )

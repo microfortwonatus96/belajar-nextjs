@@ -4,7 +4,7 @@ export default function Detail() {
     return (
         <>
         <Layout metaTitle="Detail">
-            <p>Halaman Detail</p>
+            <p>Halaman Detail Users</p>
         </Layout>
         </>
     )
